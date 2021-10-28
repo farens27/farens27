@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farens Fernanda</h1>
-<h3 align="center">Passionately Curious in Database and Machine Learning</h3>
+<h3 align="center">Passionately Curious in Database and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farens27&label=Profile%20views&color=0e75b6&style=flat" alt="farens27" /> </p>
 
