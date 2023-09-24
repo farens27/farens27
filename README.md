@@ -1,30 +1,39 @@
-<h1 align="center">Hi 👋, I'm Farens Fernanda</h1>
-<h3 align="center">Passionately Curious in Database and AI</h3>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farens27&label=Profile%20views&color=0e75b6&style=flat" alt="farens27" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monsterrat&weight=600&size=100&duration=2500&pause=1000&color=28FF8A&background=000000&center=true&vCenter=true&width=5000&height=300&lines=%3E+Hello+My+Name+is+Farensa+Fernanda;%3E+Data+Explorer+%3A+Voyaging+through+the+Dataverse+and+Unlocking+the+Secrets+of+Data+" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://twitter.com/farensa1" target="blank"><img src="https://img.shields.io/twitter/follow/farensa1?logo=twitter&style=for-the-badge" alt="farensa1" /></a> </p>
+##
+<img src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif" width="300" align="right"/>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 💬 Ask me about **games, anime and movies**
-
-- 📫 How to reach me **farensfernanda@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me
 <p align="left">
-<a href="https://twitter.com/farensa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farensa1" height="30" width="40" /></a>
-<a href="https://instagram.com/frn271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frn271" height="30" width="40" /></a>
-<a href="https://discord.gg/Mnemosyne#2706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mnemosyne#2706" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/farensa-fernanda-setiawan-5b76701b3/" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:farensfernanda@gmail.com" >
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 👨‍💻 Projects
+Welcome to my showcase of projects, where you can discover the breadth and depth of my skills and experience as a Data Analyst. From my early days as a beginner to my latest and greatest [projects]().
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farens27&show_icons=true&locale=en&layout=compact" alt="farens27" /></p>
+### 💻 Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="30" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farens27&show_icons=true&locale=en" alt="farens27" /></p>
+##
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farens27&" alt="farens27" /></p>
+### 😂 Random Dev Meme
+<img src="https://media.tenor.com/YiudoYfnQIAAAAAd/similarweb-shelly-skandrani.gif" width="400" />
+
+# 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=60&duration=2500&pause=1000&color=28FF8A&background=000000&center=true&vCenter=true&width=2000&height=100&lines=%3E+Endless+Data+Exploration+in+a+Sea+of+Information" alt="Typing SVG" /></a>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
