@@ -14,7 +14,7 @@
 </p>
 
 ### 👨‍💻 Projects
-Welcome to my showcase of projects, where you can discover the breadth and depth of my skills and experience as a Data Analyst. From my early days as a beginner to my latest and greatest [projects]().
+Welcome to my showcase of projects, where you can discover the breadth and depth of my skills and experience as a Data Analyst. From my early days as a beginner to my latest and greatest [projects](https://github.com/farens27/Portfolio/blob/main/README.md).
 
 ### 💻 Tech Stack
 <div align="left">
