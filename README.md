@@ -43,13 +43,6 @@ My journey began in data engineering and business intelligence, which gave me a 
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30" />
 </div>
 
-##
-
-### 📊 Github Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=farens27&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="farens27's GitHub stats" />
-</p>
-
 # 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=60&duration=2500&pause=1000&color=28FF8A&background=000000&center=true&vCenter=true&width=2000&height=100&lines=%3E+Sailing+the+boundless+seas+of+code%2C+forever+in+pursuit+of+elusive+bugs." alt="Typing SVG" /></a>
